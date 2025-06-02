@@ -13,6 +13,9 @@ export default function HomePage() {
             Week-2
           </Link>
         </li>
+         <li>
+          <Link className={linkStyles} href="week-3">Week-3</Link>
+        </li>
       </ul>
     </main>
   );

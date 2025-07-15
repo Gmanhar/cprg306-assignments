@@ -29,6 +29,9 @@ export default function HomePage() {
         <li>
           <Link className={linkStyles} href="week-8">Week-8</Link>
         </li>
+        <li>
+          <Link className={linkStyles} href="week-9">Week-9</Link>
+        </li>
       </ul>
     </main>
   );
